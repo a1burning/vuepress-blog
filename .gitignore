@@ -1,2 +1,6 @@
 node_modules
 dist
+theme
+.vuepress/dist
+.serverless/
+secret.js
