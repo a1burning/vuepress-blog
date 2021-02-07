@@ -1,7 +1,10 @@
 ---
-title: ES6-ES10知识整合合集
+title: ES6-ES10
+prev: ../../newBlog.md
+next: ./ES6/ES6(1).md
+sidebarDepth: 5
 ---
-# ES6-ES10知识整合合集
+# ES6-ES10知识整合
 历经两个月，终于把所有的`ES6-ES10`的知识点都发布完成了，这里进行一个小的整合，以后方便查阅资料用。
 这些东西打印出来A4纸也有120多页，一本小书的样子`(￣▽￣)／`。
 
@@ -31,43 +34,43 @@ JavaScript = ECMAScript + BOM + DOM
 -   全新的数据类型和数据结构
 
 ## ES6-ES10学习版图
-![ES6-ES10学习版图](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/c2a2ba9519a040f489e51280913e8d55~tplv-k3u1fbpfcp-watermark.image)
+![ES6-ES10学习版图](~@public/assets/img/es6.png)
 
 ## 基本语法链接整合
 ### ES6
-- [ES6（一）—— 作用域](https://segmentfault.com/a/1190000023870520)
-- [ES6（二）—— let 与 const](https://segmentfault.com/a/1190000023891620)
-- [ES6（三）—— 数组](https://segmentfault.com/a/1190000024416752)
-- [ES6（四）—— Class](https://segmentfault.com/a/1190000024417173)
-- [ES6（五）—— 函数](https://segmentfault.com/a/1190000024471607)
-- [ES6（六）—— Object](https://segmentfault.com/a/1190000024472549)
-- [ES6（七）—— Set & Map](https://segmentfault.com/a/1190000024478433)
-- [ES6（八）—— RegExp](https://segmentfault.com/a/1190000024478838)
-- [ES6（九）—— String](https://segmentfault.com/a/1190000024503291)
-- [ES6（十）—— Destructure（解构）](https://segmentfault.com/a/1190000024515043)
-- [ES6（十一）—— Promise（更优的异步编程解决方案）](https://segmentfault.com/a/1190000024519353)
-- [ES6（十二）—— Reflect](https://segmentfault.com/a/1190000024541398)
-- [ES6（十三）—— Rroxy](https://segmentfault.com/a/1190000025122561)
-- [ES6（十四）—— Generator](https://segmentfault.com/a/1190000025131447)
-- [ES6（十五）—— lterator](https://segmentfault.com/a/1190000025138649)
-- [ES6（十六）—— Modules](https://segmentfault.com/a/1190000025153995)
-- [ES6（十七）—— Symbol](https://segmentfault.com/a/1190000038151283)
+- [ES6（一）—— 作用域](./ES6/01ES6.md)
+- [ES6（二）—— let 与 const](./ES6/02ES6(let).md)
+- [ES6（三）—— 数组](./ES6/03ES6(array).md)
+- [ES6（四）—— Class](./ES6/04ES6(class).md)
+- [ES6（五）—— 函数](./ES6/05ES6(function).md)
+- [ES6（六）—— Object](./ES6/06ES6(object).md)
+- [ES6（七）—— Set & Map](./ES6/07ES6(setmap).md)
+- [ES6（八）—— RegExp](./ES6/08ES6(regexp).md)
+- [ES6（九）—— String](./ES6/09ES6(string).md)
+- [ES6（十）—— Destructure（解构）](./ES6/10ES6(destructure).md)
+- [ES6（十一）—— Promise（更优的异步编程解决方案）](./ES6/11ES6(promise).md)
+- [ES6（十二）—— Reflect](./ES6/12ES6(reflect).md)
+- [ES6（十三）—— Proxy](./ES6/13ES6(proxy).md)
+- [ES6（十四）—— Generator](./ES6/14ES6(generator).md)
+- [ES6（十五）—— Iterator](./ES6/15ES6(iterator).md)
+- [ES6（十六）—— Modules](./ES6/16ES6(modules).md)
+- [ES6（十七）—— Symbol](./ES6/17ES6(symbol).md)
 ### ES7
-- [ES7 (一) —— includes](https://segmentfault.com/a/1190000037684328)
-- [ES7(二) —— pow](https://segmentfault.com/a/1190000037596956)
+- [ES7 (一) —— includes](./ES7/01ES7includes.md)
+- [ES7(二) —— pow](./ES7/02ES7pow.md)
 ### ES8
-- [ES8(一) —— async&await](https://segmentfault.com/a/1190000037688525)
-- [ES8(二) —— Object （keys、values、entries）](https://segmentfault.com/a/1190000037689028)
-- [ES8(三) —— String Padding](https://segmentfault.com/a/1190000037704070)
-- [ES8(四) —— Object.getOwnPropertyDescriptor()](https://segmentfault.com/a/1190000037704796)
-- [ES8(五) —— 尾逗号合法](https://segmentfault.com/a/1190000037731794)
+- [ES8(一) —— async&await](./ES8/01ES8async.md)
+- [ES8(二) —— Object （keys、values、entries）](./ES8/02ES8object.md)
+- [ES8(三) —— String Padding](./ES8/03ES8string.md)
+- [ES8(四) —— Object.getOwnPropertyDescriptor()](./ES8/04ES8object.md)
+- [ES8(五) —— 尾逗号合法](./ES8/05ES8.md)
 ### ES9
-- [ES9(一) —— For await of](https://segmentfault.com/a/1190000037738864)
-- [ES9(二) —— Promise.finally](https://segmentfault.com/a/1190000037755915)
-- [ES9(三) —— Object.rest.spread](https://segmentfault.com/a/1190000037756119)
-- [ES9(四) —— RegExp-dotAll...](https://segmentfault.com/a/1190000037785808)
-- [ES9(五) —— Unicode Property Escapes](https://segmentfault.com/a/1190000038148561)
+- [ES9(一) —— For await of](./ES9/01ES9forawaitof.md)
+- [ES9(二) —— Promise.finally](./ES9/02ES9finally.md)
+- [ES9(三) —— Object.rest.spread](./ES9/03ES9rest.md)
+- [ES9(四) —— RegExp-dotAll...](./ES9/04ES9regexp.md)
+- [ES9(五) —— Unicode Property Escapes](./ES9/05ES9unicode.md)
 ### ES10
-- [ES10 —— stringify,flat,trimStart,matchAll,fromEntries,BigInt...](https://segmentfault.com/a/1190000038150735)
+- [ES10 —— stringify,flat,trimStart,matchAll,fromEntries,BigInt...](./ES10/01ES10.md)
 
-<Vssue />
+<Vssue :options="{ locale: 'zh' }"/>

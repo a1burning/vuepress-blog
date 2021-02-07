@@ -29,5 +29,7 @@ module.exports = [
     clientSecret: config.clientSecret,
     autoCreateIssue: true
   }],
-  ['@vuepress/back-to-top']
+  ['@vuepress/back-to-top'],
+  ['@vuepress/medium-zoom'],
+  ['@vuepress/active-header-links']
 ]

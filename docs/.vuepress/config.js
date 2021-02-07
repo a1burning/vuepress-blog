@@ -11,11 +11,19 @@ module.exports = {
     lastUpdated: '更新时间', // string | boolean
     logo: '/assets/img/logo.jpg',
     nav: navConf,
+    smoothScroll: true,
     // sidebar: [
     //   '/',
     //   ['/javascript/es6/','JavaScript'],
     //   ['/page-b','hahaha']
     // ]
   },
-  plugins: pluginsConf
+  plugins: pluginsConf,
+  configureWebpack: {
+    resolve: {
+      alias: {
+        '@public': '/docs/.vuepress/public'
+      }
+    }
+  }
 }

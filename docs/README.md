@@ -4,7 +4,7 @@ heroImage: /assets/img/logo.jpg
 heroText: 狐七的个人博客
 tagline: 我努力向前，在看不到终点的路上，欣赏风景~
 actionText: 进入博客 →
-actionLink: /page-a.md
+actionLink: /newBlog.md
 features:
 - title: 共勉
   details: 成功不必在我，而努力必不唐捐。
