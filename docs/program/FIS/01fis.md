@@ -3,7 +3,7 @@ title: FIS
 tags: 
   - FIS
 prev: false
-next: ./01smarty.md
+next: ./02smarty.md
 sidebarDepth: 5
 ---
 # FIS

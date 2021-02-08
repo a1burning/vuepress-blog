@@ -1,7 +1,7 @@
 ---
 title: ES6-ES10
 prev: ../../newBlog.md
-next: ./ES6/ES6(1).md
+next: ./ES6/01ES6.md
 sidebarDepth: 5
 ---
 # ES6-ES10知识整合
