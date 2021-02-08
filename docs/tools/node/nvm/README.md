@@ -34,7 +34,7 @@ sidebarDepth: 5
 - nvm use 12.10.0 —— 切换到指定node版本
 - nvm uninstall 12.10.0 —— 卸载指定node版本
 - nvm root —— 展示当前nvm安装根目录
-- nvm root <path> —— 设置nvm安装根目录
+- nvm root `<path>` —— 设置nvm安装根目录
 
 ## 安装问题
 ### use之后版本切换不过来
