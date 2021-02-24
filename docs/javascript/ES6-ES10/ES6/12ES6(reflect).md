@@ -303,5 +303,3 @@ Reflect.setPrototypeOf(arr, String.prototype)
 console.log(Reflect.getPrototypeOf(arr))
 // String {"", constructor: ƒ, anchor: ƒ, big: ƒ, blink: ƒ, …}
 ```
-
-<Vssue :options="{ locale: 'zh' }"/>

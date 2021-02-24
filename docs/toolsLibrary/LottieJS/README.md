@@ -79,4 +79,3 @@ Lottie动画是将AE文件导出json文件，然后使用LottieJS进行动画的
 
     ```
 
-<Vssue :options="{ locale: 'zh' }"/>

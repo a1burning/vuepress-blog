@@ -476,4 +476,3 @@ grunt
 # Waiting...
 ```
 
-<Vssue :options="{ locale: 'zh' }"/>

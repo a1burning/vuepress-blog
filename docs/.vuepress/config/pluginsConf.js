@@ -1,4 +1,3 @@
-const config = require('./secret')
 module.exports = [
   ["vuepress-plugin-auto-sidebar", {
     collapsable: true
@@ -17,17 +16,6 @@ module.exports = [
     message: "博客更新啦，要刷新看看嘛?",
     buttonText: "Refresh"
     }
-  }],
-  ['@vssue/vuepress-plugin-vssue', {
-    // 设置 `platform` 而不是 `api`
-    platform: 'github-v4',
-
-    // 其他的 Vssue 配置
-    owner: config.owner,
-    repo: config.repo,
-    clientId: config.clientId,
-    clientSecret: config.clientSecret,
-    autoCreateIssue: true
   }],
   ['@vuepress/back-to-top'],
   ['@vuepress/medium-zoom'],

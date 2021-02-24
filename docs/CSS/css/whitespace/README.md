@@ -106,5 +106,3 @@ text-overflow: ellipsis;/*溢出的部分使用省略号*/
 ```css
 white-space:pre;
 ```
-
-<Vssue :options="{ locale: 'zh' }"/>

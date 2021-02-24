@@ -87,4 +87,3 @@ nrm test cnpm
 # cnpm --- 1906ms
 ```
 
-<Vssue :options="{ locale: 'zh' }"/>

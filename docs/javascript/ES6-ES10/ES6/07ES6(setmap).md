@@ -304,5 +304,3 @@ WeakSet和Set的区别：
 
 WeakMap和Map的区别：
 - 只能接受对象类型的key
-
-<Vssue :options="{ locale: 'zh' }"/>

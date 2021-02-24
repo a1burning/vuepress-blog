@@ -160,4 +160,3 @@ $.get("xml.xml",function(xml){
 
 - 解析`xml`的`jq`语法有没有错误，提示的是，如果子节点有很多个，要使用`each`遍历，可以使用`$(this)`获取当前节点，也可以使用`$(val)`获取当前节点，为什么是`$(val)`，是因为`each`里面的第二个参数`val`出来的是`DOM`元素，所以要进行`DOM`元素和`JQ`元素的转化。
 
-<Vssue :options="{ locale: 'zh' }"/>

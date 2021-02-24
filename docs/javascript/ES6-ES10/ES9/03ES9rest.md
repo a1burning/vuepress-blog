@@ -138,4 +138,3 @@ console.log(a, b, rest)
 ```
 
 
-<Vssue :options="{ locale: 'zh' }"/>

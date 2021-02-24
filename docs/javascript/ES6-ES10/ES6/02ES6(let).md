@@ -102,5 +102,3 @@ const实际上保证的，并不是变量的值不得改动，而是变量指向
 
 ## 最佳实践
 不用var，主用const，遇到可变的使用let
-
-<Vssue :options="{ locale: 'zh' }"/>

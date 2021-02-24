@@ -229,4 +229,3 @@ test.say()   // undefined
 // 因为箭头函数中对this的处理是定义时，this的指向也就是test外层所指向的window，而window没有name属性，所以是undefined
 ```
 
-<Vssue :options="{ locale: 'zh' }"/>

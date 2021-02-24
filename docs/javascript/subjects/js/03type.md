@@ -182,4 +182,3 @@ function sum (a, b) {
 >
 > 解释型语言每次运行都需要将源代码解释称机器码并执行，只要平台提供相应的解释器，就可以运行源代码，Python、Java、`JavaScript`等属于解释型语言。
 
-<Vssue :options="{ locale: 'zh' }"/>

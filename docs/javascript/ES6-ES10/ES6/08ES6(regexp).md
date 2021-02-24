@@ -144,5 +144,3 @@ console.log(s.length) // 4
 const reals = codePointLength(s)
 console.log(reals) // 2
 ```
-
-<Vssue :options="{ locale: 'zh' }"/>

@@ -138,5 +138,3 @@ jQObj.css("backgroundSize","60px 80px");
 总结那么多，其实是根据自己具体的情况去看需不需要做兼容的。
 
 ![](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/3690b927483e4ce693f1aa6b8e8d832d~tplv-k3u1fbpfcp-watermark.image)
-
-<Vssue :options="{ locale: 'zh' }"/>

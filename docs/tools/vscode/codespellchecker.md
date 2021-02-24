@@ -30,4 +30,3 @@ sidebarDepth: 5
 ![image.png](https://upload-images.jianshu.io/upload_images/6100773-f6a26b5c51ed3b3a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
-<Vssue :options="{ locale: 'zh' }"/>

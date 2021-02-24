@@ -72,5 +72,3 @@ JavaScript = ECMAScript + BOM + DOM
 - [ES9(五) —— Unicode Property Escapes](./ES9/05ES9unicode.md)
 ### ES10
 - [ES10 —— stringify,flat,trimStart,matchAll,fromEntries,BigInt...](./ES10/01ES10.md)
-
-<Vssue :options="{ locale: 'zh' }"/>

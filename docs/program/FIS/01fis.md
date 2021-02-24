@@ -150,4 +150,3 @@ fis3 inspect
 # no more plugin are needed
 ```
 
-<Vssue :options="{ locale: 'zh' }"/>

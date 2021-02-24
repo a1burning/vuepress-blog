@@ -35,7 +35,13 @@ module.exports = [
         text: '性能优化', link: '/performance/'
       },
       {
-        text: '工程化', link: '/program/'
+        text: '前端工程化', items: [
+          { text: '工程化', link: '/program/#工程化概述' },
+          { text: '脚手架', link: '/program/#脚手架' },
+          { text: '自动化构建流', link: '/program/#自动化构建流' },
+          { text: '模块化', link: '/program/#模块化打包工具' },
+          { text: '测试', link: '/program/test/01.md' }
+        ]
       },
       {
         text: '源码', items: 
@@ -58,7 +64,8 @@ module.exports = [
     text: '框架', items:
     [
       { text: 'Vue', items: [
-        { text: 'Vuex', link: '/vue/vuex/01vuex.html'}
+        { text: 'Vuex', link: '/vue/vuex/01vuex.html'},
+        { text: 'Vue3.0', link: '/vue/vue3.0/01vue3.0.html'}
       ]}
     ]
   },

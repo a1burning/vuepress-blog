@@ -439,4 +439,3 @@ div:after {
 ![利用css3旋转来制作三角形2.jpg](https://user-gold-cdn.xitu.io/2018/11/8/166f2bedc9bfdf78?w=129&h=113&f=jpeg&s=1127)
 
 
-<Vssue :options="{ locale: 'zh' }"/>

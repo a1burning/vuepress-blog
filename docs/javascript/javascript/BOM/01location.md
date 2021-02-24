@@ -145,4 +145,3 @@ location.port = 8080';
   location.reload(true);  //从服务器重新加载
 ```
 
-<Vssue :options="{ locale: 'zh' }"/>

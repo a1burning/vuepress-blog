@@ -162,4 +162,3 @@ it('renders widthout crashing', () => {
 4. 在`plopfile.js`文件中定义脚手架任务
 5. 通过`Plop`提供的`CLI`运行脚手架任务
 
-<Vssue :options="{ locale: 'zh' }"/>

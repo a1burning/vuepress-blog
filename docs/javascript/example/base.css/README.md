@@ -321,4 +321,3 @@ input[type="number"]+div > .count_subtract{
 这样，在页面中直接引入base.css就可以啦。
 是不是很方便？
 
-<Vssue :options="{ locale: 'zh' }"/>

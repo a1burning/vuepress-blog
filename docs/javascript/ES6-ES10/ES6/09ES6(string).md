@@ -146,5 +146,3 @@ console.log(message.endsWith('.')) // true
 console.log(message.includes('foo')) // true
 console.log(message.includes('foo', 8)) // false
 ```
-
-<Vssue :options="{ locale: 'zh' }"/>

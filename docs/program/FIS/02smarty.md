@@ -352,4 +352,3 @@ fis3-smarty默认的分届符为`{%、%}`，这个可以修改。
 {%/block%}
 ```
 
-<Vssue :options="{ locale: 'zh' }"/>

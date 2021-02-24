@@ -23,5 +23,3 @@ sidebarDepth: 5
 ## whitespace
 
 - [whitespace](./whitespace/README.md)
-
-<Vssue :options="{ locale: 'zh' }"/>

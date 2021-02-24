@@ -102,4 +102,3 @@ console.log(Symbol.for(true) === Symbol.for('true')) // true
 - JS八种数据类型：Number、String、Boolean、Null、undefined、object、symbol、bigInt
 - JS七种基本数据类型：Number、String、Boolean、Null、undefined、symbol、bigInt
 
-<Vssue :options="{ locale: 'zh' }"/>

@@ -266,5 +266,3 @@ for(const item of todos){
 // 外语
 // 喝茶
 ```
-
-<Vssue :options="{ locale: 'zh' }"/>

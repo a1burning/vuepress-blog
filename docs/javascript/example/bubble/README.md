@@ -195,4 +195,3 @@ $(document).ready(function(){
 
 整体还是比较简单的，所以这里做一下记录。
 
-<Vssue :options="{ locale: 'zh' }"/>

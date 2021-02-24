@@ -186,4 +186,3 @@ $("#copy").on("tap",function(){
 
 这样就实现了前端点击按钮自动复制剪贴板的功能。
 
-<Vssue :options="{ locale: 'zh' }"/>

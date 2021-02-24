@@ -58,7 +58,7 @@ sidebarDepth: 5
 - [Yeoman —— 通用脚手架工具](./Yeoman/01.md)
 - [Plop —— 同于创建特定类型的文件](./Plop/README.md)
 
-### 开发一个脚手架
+### 开发一个脚手架 <Badge text="案例"/>
 - [开发一个简单的脚手架](./example/01.md)
 
 ## 自动化构建流
@@ -75,3 +75,13 @@ sidebarDepth: 5
 
 - [FIS](./FIS/01fis.md)
 - [fis3-smarty](./FIS/02smarty.md)
+
+## 模块化打包工具
+### Vite <Badge type="warning" text="新增"/>
+
+- [Vite](./Vite/01.md)
+
+## 前端测试
+
+- [测试了解](./test/01.md)
+- [Jest](./test/02.md)

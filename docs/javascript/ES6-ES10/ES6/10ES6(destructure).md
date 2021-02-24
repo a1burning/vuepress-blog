@@ -156,5 +156,3 @@ let { size: { width: width2, height }, item: [item1] } = options
 console.log(width2, height, item1)
 //100 200 "Cake"
 ```
-
-<Vssue :options="{ locale: 'zh' }"/>

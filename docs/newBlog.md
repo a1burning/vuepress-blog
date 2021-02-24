@@ -3,6 +3,12 @@ title: 最新博客
 ---
 # 最新博客
 
+- :kiss: [前端测试+Jest —— 2021/2/24](./program/test/01.md)
+- :ghost: [Vue3.0介绍 —— 2021/2/24](./vue/vue3.0/01vue3.0.md)
+- :heart: [实践：Vue3.0 —— ToDoList —— 2021/2/24](./vue/vue3.0/04vue3.0.md)
+- :zzz: [Vue3.0响应式系统原理 —— 2021/2/24](./vue/vue3.0/05vue3.0.md)
+
+## 历史推荐
 - :100: [Vuex集中式状态管理仓库 —— 2020/12/31](./vue/vuex/01vuex.md)
 - :watermelon: [前端工程化 —— 2020/12/26](./program/README.md)
 - :lollipop: [Git —— 2020/12/20](./others/Git/01.md)

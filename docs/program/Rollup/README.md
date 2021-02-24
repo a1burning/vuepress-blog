@@ -264,4 +264,3 @@ export default {
 - `--file` —— 输出文件，后面跟打印路径，不写会打印到控制台
 - `--config` —— 指定使用配置文件，后面可以加指定配置文件的名称，`rollup --config <filename>`，默认是`rollup.config.js`。
 
-<Vssue :options="{ locale: 'zh' }"/>

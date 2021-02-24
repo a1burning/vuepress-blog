@@ -574,5 +574,3 @@ body {
 
 [再说径向渐变](https://www.w3cplus.com/css3/new-css3-radial-gradient.html)
 
-
-<Vssue :options="{ locale: 'zh' }"/>

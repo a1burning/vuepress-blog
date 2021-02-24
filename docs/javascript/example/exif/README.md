@@ -180,4 +180,3 @@ dv.setInt16(0, 42);
 dv.getInt16(0); //42
 ```
 
-<Vssue :options="{ locale: 'zh' }"/>

@@ -42,4 +42,3 @@ sidebarDepth: 5
 
 **解决方案**：卸载当前`node.js`，用`nvm`切换试一下
 
-<Vssue :options="{ locale: 'zh' }"/>

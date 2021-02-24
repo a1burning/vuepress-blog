@@ -359,4 +359,3 @@ div{
 
 ![demo4.jpg](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/db673fcc1ea34a2ba43a81609f2c5105~tplv-k3u1fbpfcp-zoom-1.image)
 
-<Vssue :options="{ locale: 'zh' }"/>

@@ -304,5 +304,3 @@ dog.hello()
 // dog eat food
 // and say hello
 ```
-
-<Vssue :options="{ locale: 'zh' }"/>

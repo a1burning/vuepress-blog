@@ -18,4 +18,3 @@ sidebarDepth: 5
 ## BOM
 - [Location对象](./BOM/01location.md)
 
-<Vssue :options="{ locale: 'zh' }"/>

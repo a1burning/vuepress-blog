@@ -114,4 +114,3 @@ let map1 = new Map(Object.entries(grade))
 map1.get("lilei") // 96
 ```
 
-<Vssue :options="{ locale: 'zh' }"/>

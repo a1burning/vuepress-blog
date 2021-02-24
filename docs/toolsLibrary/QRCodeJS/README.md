@@ -115,4 +115,3 @@ qrcode.madkCode('new content');
 如果是微信，传的url的地址中有中文是可以识别的，但是在QQ中是不行的
 所以其中的中文要进行encodeURIComponent编码，但是不要整体都编码，只是中文的部分编码即可。
 
-<Vssue :options="{ locale: 'zh' }"/>

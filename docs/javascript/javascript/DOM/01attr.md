@@ -529,4 +529,3 @@ $div.data("houhou");
 attr与prop区别
 http://www.cnblogs.com/Showshare/p/different-between-attr-and-prop.html
 
-<Vssue :options="{ locale: 'zh' }"/>

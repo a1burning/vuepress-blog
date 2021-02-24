@@ -250,4 +250,3 @@ async function he() {
 he();
 ```
 
-<Vssue :options="{ locale: 'zh' }"/>

@@ -424,5 +424,3 @@ console.log(find)  // 1---索引位置
 ### Array.findIndex(callback[, thisArg])
 > 第一个参数：回调函数，接收三个参数，element、index、array<br/>
 > 第二个参数：this对象
-
-<Vssue :options="{ locale: 'zh' }"/>

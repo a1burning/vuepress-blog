@@ -63,4 +63,3 @@ console.log(input.match(/[\u4e00-\u9fa5]+/))
 ​
 **目前 `JavaScript RegExp` 还不支持 `Unicode Block`**
 
-<Vssue :options="{ locale: 'zh' }"/>

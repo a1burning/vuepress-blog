@@ -179,4 +179,3 @@ $("#fileImg").on('change',function(){
 目前有些怀疑，是base64转化成file文件的时候，丢失的。
 之后验证后会在这里进行补充说明。
 
-<Vssue :options="{ locale: 'zh' }"/>

@@ -880,4 +880,3 @@ export default new Vuex.Store({
 ## 完整案例
 [vuex-cart-temp](https://github.com/a1burning/vuex-cart-temp)
 
-<Vssue :options="{ locale: 'zh' }"/>

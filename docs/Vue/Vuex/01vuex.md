@@ -15,6 +15,7 @@ sidebarDepth: 5
 
 
 ## Vue组件间通信方式回顾
+
 ### 组件内的状态管理流程
 Vue最核心的两个功能：**数据驱动** 和 **组件化**
 
@@ -1104,4 +1105,3 @@ const store = new Vuex.Store({
 ```
 
 
-<Vssue :options="{ locale: 'zh' }"/>

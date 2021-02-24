@@ -83,4 +83,3 @@ for(let i = 1 ; i < 32000 ; i+=1000){
 // 11001
 ```
 
-<Vssue :options="{ locale: 'zh' }"/>

@@ -51,4 +51,3 @@ import('jquery').then($ => {
 ​
 Parcel使用下来很舒服，不需要我们额外的进行很多配置，自动的帮我们处理了很多的事情。
 ​
-<Vssue :options="{ locale: 'zh' }"/>

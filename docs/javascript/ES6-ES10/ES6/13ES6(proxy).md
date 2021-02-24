@@ -453,5 +453,3 @@ listProxy.push(200)
 ```
 
 ### 3. Proxy是以非侵入的方式监管了对象的读写
-
-<Vssue :options="{ locale: 'zh' }"/>

@@ -586,4 +586,3 @@ $items.append(
 
 这样瀑布流就完成了.
 
-<Vssue :options="{ locale: 'zh' }"/>

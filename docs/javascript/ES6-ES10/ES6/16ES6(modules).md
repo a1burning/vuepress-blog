@@ -235,4 +235,3 @@ let people = new Mod.default()
 console.log(people.id) // 123
 ```
 
-<Vssue :options="{ locale: 'zh' }"/>

@@ -46,4 +46,3 @@ console.log("test123")
 # [nodemon] clean exit - waiting for changes before restart
 ```
 
-<Vssue :options="{ locale: 'zh' }"/>

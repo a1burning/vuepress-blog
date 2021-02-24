@@ -149,4 +149,3 @@ test()
 ```
 
 
-<Vssue :options="{ locale: 'zh' }"/>

@@ -122,4 +122,3 @@ class Store {
 import Vuex from '../myVuex'
 ```
 
-<Vssue :options="{ locale: 'zh' }"/>

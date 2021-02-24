@@ -272,4 +272,3 @@ $("#example").hasClass("add");
 
 基本上`zepto`和`jquery`在关于`class`样式操作方面，并没有什么区别。
 
-<Vssue :options="{ locale: 'zh' }"/>

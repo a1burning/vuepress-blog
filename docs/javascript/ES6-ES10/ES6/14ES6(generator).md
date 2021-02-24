@@ -412,4 +412,3 @@ for(const item of todos){
 // 喝茶
 ```
 
-<Vssue :options="{ locale: 'zh' }"/>

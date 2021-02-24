@@ -22,4 +22,3 @@ ES7 **
 console.log(2 ** 4) // 16
 ```
 
-<Vssue :options="{ locale: 'zh' }"/>

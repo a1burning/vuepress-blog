@@ -135,4 +135,3 @@ $(".barrage-div").each(function(index,value){   //遍历每条弹幕
 ![html.jpg](https://user-gold-cdn.xitu.io/2018/8/22/16560de465225c27?w=854&h=449&f=jpeg&s=126903)
 
 
-<Vssue :options="{ locale: 'zh' }"/>

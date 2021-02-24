@@ -38,4 +38,3 @@ Gen(Math.random() * 1000)
   .finally(() => {console.log('finish') })
 ```
 
-<Vssue :options="{ locale: 'zh' }"/>

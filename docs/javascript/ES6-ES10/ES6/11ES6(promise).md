@@ -490,5 +490,3 @@ console.log('global end')
 
 ## 深度剖析：手写一个Promise源码
 [手写一个Promise源码](/code/promise/)
-
-<Vssue :options="{ locale: 'zh' }"/>

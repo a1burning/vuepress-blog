@@ -9,4 +9,3 @@ sidebarDepth: 5
 ---
 # Temp
 
-<Vssue :options="{ locale: 'zh' }"/>

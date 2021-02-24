@@ -121,4 +121,3 @@ p3.firstName = 'Hu'
 console.log(p3.fullName) // Hu Wang
 ```
 
-<Vssue :options="{ locale: 'zh' }"/>

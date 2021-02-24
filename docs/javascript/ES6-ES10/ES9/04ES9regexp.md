@@ -118,4 +118,4 @@ console.log(test.match(/(?<!hell2\s)world/))
 // \1表示捕获匹配
 ```
 
-<Vssue :options="{ locale: 'zh' }"/>
+

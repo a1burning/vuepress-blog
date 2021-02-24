@@ -403,4 +403,3 @@ $("#subtract").on("click",function(){
 然后用一张图看看效果: )
 ![自定义数字框.png](https://user-gold-cdn.xitu.io/2018/4/24/162f6a6c760c0a74?w=115&h=53&f=png&s=273)
 
-<Vssue :options="{ locale: 'zh' }"/>

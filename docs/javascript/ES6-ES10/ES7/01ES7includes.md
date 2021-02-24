@@ -42,4 +42,3 @@ console.log(arr.includes(40)) // false
 > PS:indexOf无法查找NaN，使用includes可以查找NaN
 
 
-<Vssue :options="{ locale: 'zh' }"/>

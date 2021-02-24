@@ -396,4 +396,3 @@ gulp.task('bs',function(){
 - [Gulp+BrowserSunc](http://www.browsersync.cn/docs/gulp/)
 ​
 ​
-<Vssue :options="{ locale: 'zh' }"/>
