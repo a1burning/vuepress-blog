@@ -11,6 +11,6 @@ features:
 - title: 关于我
   details: 一直在努力的前端工程师。
 - title: 技能
-  details: HTML、CSS、JAVASCRIPT、ES6、Vue、React
+  details: HTML、CSS、JAVASCRIPT、ES6、Vue
 footer: MIT Licensed | Copyright © 2021-present Burning
 ---

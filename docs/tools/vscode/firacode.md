@@ -19,12 +19,12 @@ sidebarDepth: 5
 "editor.fontLigatures": true
 ```
 ## 效果
-![全等.png](https://upload-images.jianshu.io/upload_images/6100773-541b7cb0ce20d753.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![全等.png](~@public/assets/tools/vscode/6.jpg)
 
-![arrow.png](https://upload-images.jianshu.io/upload_images/6100773-72d5951e9cd2a461.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![arrow.png](~@public/assets/tools/vscode/7.jpg)
 
 ## 参考
 下面的图片是我从知乎上copy来的，为了自己看方便，勿喷！
-![参考图](https://upload-images.jianshu.io/upload_images/6100773-9e21ed06ba594641.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![参考图](~@public/assets/tools/vscode/8.jpg)
 
 
