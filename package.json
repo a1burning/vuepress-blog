@@ -4,8 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
+    "dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "deploy-csf": "sh shell/deploy-csf.sh"
   },
   "keywords": [],
   "author": "",
