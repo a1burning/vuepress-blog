@@ -3,6 +3,7 @@ title: 最新博客
 ---
 # 最新博客
 
+- :tada: [用Vue3简单写一个单行横向滚动组件 —— 2021/8/9](./javascript/example/vue3-single-srcoll/README.md)
 - :kiss: [前端测试+Jest —— 2021/2/24](./program/test/01.md)
 - :ghost: [Vue3.0介绍 —— 2021/2/24](./vue/vue3.0/01vue3.0.md)
 - :heart: [实践：Vue3.0 —— ToDoList —— 2021/2/24](./vue/vue3.0/04vue3.0.md)

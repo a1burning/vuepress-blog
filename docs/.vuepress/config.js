@@ -25,5 +25,8 @@ module.exports = {
         '@public': '/docs/.vuepress/public'
       }
     }
+  },
+  markdown: {
+    lineNumbers: true
   }
 }

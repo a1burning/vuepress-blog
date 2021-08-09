@@ -20,7 +20,7 @@ module.exports = [
       {
         text: '其他', items: [
           { text: '专题', link: '/javascript/subjects/' },
-          { text: '实例', link: '/javascript/example/' },
+          { text: '实践', link: '/javascript/example/' },
         ]
       }
     ]

@@ -17,6 +17,7 @@ sidebarDepth: 5
 - [H5+CSS3实现说话气泡点击动画](./bubble/README.md)
 - [使用canvas压缩图片大小](./pressImg/README.md)
 - [waterfall瀑布流布局+动态渲染](./waterfall/README.md)
+- [用Vue3简单写一个单行横向滚动组件](./vue3-single-srcoll/README.md)
 
 ## JS实例
 
