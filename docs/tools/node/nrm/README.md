@@ -1,10 +1,9 @@
 ---
 title: nrm——管理npm源不再繁琐
 tags: 
-  - npm
-  - node
-  - nrm
-  - tools
+  - Node
+  - Tools
+date: 2020-08-13
 sidebarDepth: 5
 ---
 # nrm——管理npm源不再繁琐

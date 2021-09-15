@@ -1,9 +1,9 @@
 ---
 title: nvm——node版本管理
 tags: 
-  - node
-  - nvm
-  - tools
+  - Node
+  - Tools
+date: 2020-10-21
 sidebarDepth: 5
 ---
 # nvm——node版本管理
