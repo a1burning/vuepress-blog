@@ -1,26 +1,25 @@
 module.exports = [
   { text: 'Home', link: '/' },
-  { text: '最新博客', link: '/newBlog.html' },
   {
     text: '前端基础', items: 
     [ 
       {
         text: 'JavaScript', items: [
-          {text: 'JS', link: '/javascript/javascript/' },
-          {text: 'ES6-ES10', link: '/javascript/ES6-ES10/' },
-          {text: 'TypeScript', link: '/javascript/typescript/01.md' },
+          {text: 'JS', link: '/basic/JavaScript/javascript/' },
+          {text: 'ES6-ES10', link: '/basic/JavaScript/ES6-ES10/' },
+          {text: 'TypeScript', link: '/basic/JavaScript/typescript/01.md' },
         ]
       },
       {
         text: 'CSS', items: [
-          { text: 'css', link: '/CSS/css/' },
-          { text: 'less', link: '/CSS/less/01.md' },
+          { text: 'css', link: '/basic/CSS/css/' },
+          { text: 'less', link: '/basic/CSS/less/01.md' },
         ]
       },
       {
         text: '其他', items: [
-          { text: '专题', link: '/javascript/subjects/' },
-          { text: '实践', link: '/javascript/example/' },
+          { text: '专题', link: '/basic/Other/subjects/' },
+          { text: '实践', link: '/basic/Other/example/' },
         ]
       }
     ]
@@ -29,52 +28,37 @@ module.exports = [
     text: '前端进阶', items:
     [
       {
-        text: '函数式编程', link: '/javascript/javascript/Functor/01.md'
+        text: '函数式编程', link: '/advance/Functor/01.md'
       },
       {
-        text: '性能优化', link: '/performance/'
+        text: '性能优化', link: '/advance/performance/'
       },
       {
         text: '前端工程化', items: [
-          { text: '工程化', link: '/program/#工程化概述' },
-          { text: '脚手架', link: '/program/#脚手架' },
-          { text: '自动化构建流', link: '/program/#自动化构建流' },
-          { text: '模块化', link: '/program/#模块化打包工具' },
-          { text: '测试', link: '/program/test/01.md' }
+          { text: '工程化', link: '/advance/program/#工程化概述' },
+          { text: '脚手架', link: '/advance/program/#脚手架' },
+          { text: '自动化构建流', link: '/advance/program/#自动化构建流' },
+          { text: '模块化', link: '/advance/program/#模块化打包工具' },
+          { text: '测试', link: '/advance/program/test/01.md' }
         ]
       },
       {
         text: '源码', items: 
         [
-          {text: 'Promise', link: '/code/promise/'}
+          {text: 'Promise', link: '/advance/sourceCode/promise/'}
         ]
       },
-    ]
-  },
-  {
-    text: '工具库', items:
-    [
-      { text: 'QRCodeJS', link: '/toolsLibrary/QRCodeJS/'},
-      { text: 'LottieJS', link: '/toolsLibrary/LottieJS/'},
-      { text: 'Flow', link: '/toolsLibrary/Flow/01.md'},
-      { text: 'Jquery', link: '/toolsLibrary/Jquery/'},
     ]
   },
   {
     text: '框架', items:
     [
       { text: 'Vue', items: [
-        { text: 'Vuex', link: '/vue/vuex/01vuex.html'},
-        { text: 'Vue3.0', link: '/vue/vue3.0/01vue3.0.html'}
+        { text: 'Vuex', link: '/frame/vuex/01vuex.html'},
+        { text: 'Vue3.0', link: '/frame/vue3.0/01vue3.0.html'}
       ]}
     ]
   },
-  // {
-  //   text: '实践', items:
-  //   [
-  //     { text: '专题', link: '/others/Git/01.md'}
-  //   ]
-  // },
   {
     text: 'Tools', items: 
     [
@@ -83,19 +67,27 @@ module.exports = [
         {text: 'nrm', link: '/tools/node/nrm/'},
         {text: 'nvm', link: '/tools/node/nvm/'},
       ]},
+      {text: '工具库', items: [
+        { text: 'QRCodeJS', link: '/tools/toolsLibrary/QRCodeJS/'},
+        { text: 'LottieJS', link: '/tools/toolsLibrary/LottieJS/'},
+        { text: 'Flow', link: '/tools/toolsLibrary/Flow/01.md'},
+        { text: 'Jquery', link: '/tools/toolsLibrary/Jquery/'},
+      ]},
       {text: 'vscode', items: [
         {text: 'Fria Code', link: '/tools/vscode/firacode.html'},
         {text: 'codeSpellChecker', link: '/tools/vscode/codespellchecker.html'},
-        {text: 'FlowLanguageSupport', link: '/toolsLibrary/Flow/05.md'},
+        {text: 'FlowLanguageSupport', link: '/tools/toolsLibrary/Flow/05.md'},
       ]},
     ]
   },
   {
     text: '更多', items:
     [
-      { text: 'Git', link: '/others/Git/01.md'}
+      { text: 'Git', link: '/more/Git/01.md'}
     ]
   },
+  { text: '标签分类', link: '/tag/', icon: 'reco-category' },
+  { text: 'TimeLine', link: '/timeline/', icon: 'reco-date' },
   { text: 'Blog/Repository', items: [
       {
         text: '技术博客', items: [

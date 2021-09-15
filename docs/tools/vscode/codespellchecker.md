@@ -2,8 +2,8 @@
 title: VSCode的code spell checker插件
 tags: 
   - VSCode
-  - code spell checker
-  - tools
+  - Tools
+date: 2020-12-29
 sidebarDepth: 5
 ---
 # VSCode的code spell checker插件

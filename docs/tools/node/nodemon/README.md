@@ -1,9 +1,9 @@
 ---
 title: nodemon —— Node服务自动重启实时刷新
 tags: 
-  - node
-  - tools
-  - nodemon
+  - Node
+  - Tools
+date: 2020-09-02
 sidebarDepth: 5
 ---
 # nodemon —— Node服务自动重启实时刷新

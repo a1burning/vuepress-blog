@@ -2,8 +2,8 @@
 title: VSCode中使用Fira Code字体
 tags: 
   - VSCode
-  - Fira Code
-  - tools
+  - Tools
+date: 2020-09-02
 sidebarDepth: 5
 ---
 # VSCode中使用Fira Code字体
