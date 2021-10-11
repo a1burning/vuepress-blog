@@ -38,7 +38,7 @@ module.exports = [
           { text: '工程化', link: '/advance/program/#工程化概述' },
           { text: '脚手架', link: '/advance/program/#脚手架' },
           { text: '自动化构建流', link: '/advance/program/#自动化构建流' },
-          { text: '模块化', link: '/advance/program/#模块化打包工具' },
+          { text: '模块化', link: '/advance/program/Modules/01.md' },
           { text: '测试', link: '/advance/program/test/01.md' }
         ]
       },
