@@ -77,10 +77,9 @@ sidebarDepth: 5
 - [FIS](./FIS/01fis.md)
 - [fis3-smarty](./FIS/02smarty.md)
 
-## 模块化打包工具
-### Vite <Badge type="warning" text="新增"/>
+## 模块化
 
-- [Vite](./Vite/01.md)
+- [模块化开发](./Modules/01.md)
 
 ## 前端测试
 
