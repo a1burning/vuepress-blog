@@ -11,7 +11,7 @@ sidebarDepth: 5
 ## 效果图 :tada:
 把之前完成的一个效果图摘出来记录一下，核心代码在这里，如果项目中用到其他的技术，也很容易改。
 
-![scroll.gif](~@public/assets/javascript/scroll.gif)
+![scroll.gif](~@public/assets/images/javascript/scroll.gif)
 
 ## 需求分析
 ::: tip 实现以下功能

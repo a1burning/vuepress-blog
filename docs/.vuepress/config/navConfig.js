@@ -35,9 +35,9 @@ module.exports = [
       },
       {
         text: '前端工程化', items: [
-          { text: '工程化', link: '/advance/program/#工程化概述' },
-          { text: '脚手架', link: '/advance/program/#脚手架' },
-          { text: '自动化构建流', link: '/advance/program/#自动化构建流' },
+          { text: '工程化', link: '/advance/program/01.md' },
+          { text: '脚手架', link: '/advance/program/Scaffold/01.md' },
+          { text: '自动化构建', link: '/advance/program/BuildAutomation/01.md' },
           { text: '模块化', link: '/advance/program/Modules/01.md' },
           { text: '测试', link: '/advance/program/test/01.md' }
         ]
@@ -45,7 +45,8 @@ module.exports = [
       {
         text: '源码', items: 
         [
-          {text: 'Promise', link: '/advance/sourceCode/promise/'}
+          {text: 'Promise', link: '/advance/sourceCode/promise/'},
+          {text: 'Webpack', link: '/advance/sourceCode/webpack/01.md'},
         ]
       },
     ]
@@ -83,7 +84,8 @@ module.exports = [
   {
     text: '更多', items:
     [
-      { text: 'Git', link: '/more/Git/01.md'}
+      { text: 'Git', link: '/more/Git/01.md'},
+      { text: 'AST', link: '/more/AST/01.md'}
     ]
   },
   { text: '标签分类', link: '/tag/', icon: 'reco-category' },

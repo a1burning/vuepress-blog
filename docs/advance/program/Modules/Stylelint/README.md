@@ -36,7 +36,7 @@ module.exports = {
 ```
 命令行`npx stylelint ./index.ts`可以看到所有报错
 
-![image](~@public/assets/program/modules/stylelint1.png)
+![image](~@public/assets/images/program/modules/stylelint1.png)
 
 也可以使用`npx stylelint index.css --fix`自动解决大部分问题。
 
@@ -66,4 +66,4 @@ body{
 ```
 4. 执行命令`npx stylelint index.scss`可以看到文件检查报错
 
-![image](~@public/assets/program/modules/stylelint2.png)
+![image](~@public/assets/images/program/modules/stylelint2.png)

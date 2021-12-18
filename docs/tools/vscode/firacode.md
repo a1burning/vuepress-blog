@@ -19,12 +19,12 @@ sidebarDepth: 5
 "editor.fontLigatures": true
 ```
 ## 效果
-![全等.png](~@public/assets/tools/vscode/6.jpg)
+![全等.png](~@public/assets/images/tools/vscode/6.jpg)
 
-![arrow.png](~@public/assets/tools/vscode/7.jpg)
+![arrow.png](~@public/assets/images/tools/vscode/7.jpg)
 
 ## 参考
 下面的图片是我从知乎上copy来的，为了自己看方便，勿喷！
-![参考图](~@public/assets/tools/vscode/8.jpg)
+![参考图](~@public/assets/images/tools/vscode/8.jpg)
 
 
