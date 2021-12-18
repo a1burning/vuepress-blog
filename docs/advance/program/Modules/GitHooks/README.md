@@ -52,7 +52,7 @@ Husky可以实现在不编写脚本的情况下也可以直接使用Git Hooks带
 
 1. 安装eslint`npm i eslint -D`并初始化，安装模块`npm install husky -D`，在`.git/hooks/`中我们可以看到文件中有很多自定义的钩子
 
-![image](~@public/assets/program/modules/githooks1.png)
+![image](~@public/assets/images/program/modules/githooks1.png)
 
 2. 准备文件index.js
 
@@ -80,7 +80,7 @@ const a=1;
 3. 写`.gitignore`把`node_modules`忽略，进行git提交`git commit -m 'commit lint'`，可以看到eslint有输出，这样代码就不会直接提交到仓库中了。
 
 
-![image](~@public/assets/program/modules/githooks2.png)
+![image](~@public/assets/images/program/modules/githooks2.png)
 
 但是如果我们除了在提交前检查完eslint还要进行格式化，那这个husky就不够用了。需要另一个插件 —— lint-staged
 ### lint-staged
@@ -117,6 +117,6 @@ const a=1;
 
 3. an在命令行中提交代码就可以看到先执行eslint，之后执行prettier
 
-![image](~@public/assets/program/modules/githooks3.png)
+![image](~@public/assets/images/program/modules/githooks3.png)
 
 这里旨在演示怎么用，具体的东西还需要查阅相关文档。
