@@ -48,7 +48,9 @@ module.exports = [
           {text: 'Promise', link: '/advance/sourceCode/promise/'},
           {text: 'Webpack', link: '/advance/sourceCode/webpack/01.md'},
           {text: 'Snabbdom', link: '/frame/Vue/virtual-dom/03.md'},
+          {text: 'Vue', link: '/frame/Vue/vue-source-code/01.md'},
           {text: 'vue-observe', link: '/frame/Vue/vue-observe/02.md'},
+          {text: 'vue-router', link: '/frame/Vue/vue-router/04.md'},
         ]
       },
     ]
@@ -58,8 +60,7 @@ module.exports = [
     [
       { text: 'Vue', items: [
         { text: 'Vue2', link: '/frame/Vue/'},
-        { text: 'Vue3', link: '/frame/Vue3/01vue3.0.html'},
-        { text: 'Vuex', link: '/frame/Vuex/01vuex.html'},
+        { text: 'Vue3', link: '/frame/Vue3/01vue3.md'},
       ]}
     ]
   },
