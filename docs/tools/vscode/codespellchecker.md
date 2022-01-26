@@ -14,7 +14,7 @@ sidebarDepth: 5
 ## 安装
 首先去`VSCode`商店进行安装
 
-![](~@public/assets/images/tools/vscode/1.jpg)
+![image.png](~@public/assets/images/tools/vscode/1.jpg)
 
 ## 配置
 1.  `Allow Compound Words`设置为`false`

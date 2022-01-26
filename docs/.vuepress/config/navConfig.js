@@ -79,8 +79,9 @@ module.exports = [
         { text: 'Jquery', link: '/tools/toolsLibrary/Jquery/'},
       ]},
       {text: 'vscode', items: [
-        {text: 'Fria Code', link: '/tools/vscode/firacode.html'},
-        {text: 'codeSpellChecker', link: '/tools/vscode/codespellchecker.html'},
+        {text: 'Fria Code', link: '/tools/vscode/firacode.md'},
+        {text: 'codeSpellChecker', link: '/tools/vscode/codespellchecker.md'},
+        {text: 'jsDelivr', link: '/tools/vscode/jsDelivr.md'},
         {text: 'FlowLanguageSupport', link: '/tools/toolsLibrary/Flow/05.md'},
       ]},
     ]
@@ -89,7 +90,9 @@ module.exports = [
     text: '更多', items:
     [
       { text: 'Git', link: '/more/Git/01.md'},
-      { text: 'AST', link: '/more/AST/01.md'}
+      { text: 'AST', link: '/more/AST/01.md'},
+      { text: '部署', link: '/more/deployment/'},
+      { text: 'Docker', link: '/more/Docker/01.md'},
     ]
   },
   { text: '标签分类', link: '/tag/', icon: 'reco-category' },
