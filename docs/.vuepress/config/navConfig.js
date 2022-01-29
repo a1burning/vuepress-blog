@@ -51,6 +51,7 @@ module.exports = [
           {text: 'Vue', link: '/frame/Vue/vue-source-code/01.md'},
           {text: 'vue-observe', link: '/frame/Vue/vue-observe/02.md'},
           {text: 'vue-router', link: '/frame/Vue/vue-router/04.md'},
+          {text: 'vuex', link: '/frame/Vue/Vuex/03vuex.md'},
         ]
       },
     ]
@@ -61,6 +62,7 @@ module.exports = [
       { text: 'Vue', items: [
         { text: 'Vue2', link: '/frame/Vue/'},
         { text: 'Vue3', link: '/frame/Vue3/01vue3.md'},
+        { text: 'SSR', link: '/frame/SSR/'},
       ]}
     ]
   },
