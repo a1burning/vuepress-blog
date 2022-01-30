@@ -1,5 +1,5 @@
 module.exports = [
-  { text: 'Home', link: '/' },
+  { text: 'Home', link: '/', icon: 'reco-home' },
   {
     text: '前端基础', items: 
     [ 
@@ -67,26 +67,7 @@ module.exports = [
     ]
   },
   {
-    text: 'Tools', items: 
-    [
-      {text: 'node', items: [
-        {text: 'nodemon', link: '/tools/node/nodemon/'},
-        {text: 'nrm', link: '/tools/node/nrm/'},
-        {text: 'nvm', link: '/tools/node/nvm/'},
-      ]},
-      {text: '工具库', items: [
-        { text: 'QRCodeJS', link: '/tools/toolsLibrary/QRCodeJS/'},
-        { text: 'LottieJS', link: '/tools/toolsLibrary/LottieJS/'},
-        { text: 'Flow', link: '/tools/toolsLibrary/Flow/01.md'},
-        { text: 'Jquery', link: '/tools/toolsLibrary/Jquery/'},
-      ]},
-      {text: 'vscode', items: [
-        {text: 'Fria Code', link: '/tools/vscode/firacode.md'},
-        {text: 'codeSpellChecker', link: '/tools/vscode/codespellchecker.md'},
-        {text: 'jsDelivr', link: '/tools/vscode/jsDelivr.md'},
-        {text: 'FlowLanguageSupport', link: '/tools/toolsLibrary/Flow/05.md'},
-      ]},
-    ]
+    text: 'Tools', link: '/tools/', icon: 'reco-api'
   },
   {
     text: '更多', items:
@@ -95,6 +76,7 @@ module.exports = [
       { text: 'AST', link: '/more/AST/01.md'},
       { text: '部署', link: '/more/deployment/'},
       { text: 'Docker', link: '/more/Docker/01.md'},
+      { text: '计算机网络', link: '/more/Network/'},
     ]
   },
   { text: '标签分类', link: '/tag/', icon: 'reco-category' },

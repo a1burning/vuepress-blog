@@ -10,6 +10,7 @@ module.exports = {
   head: headConf,
   theme: 'reco',
   themeConfig: {
+    author: '狐七',
     lastUpdated: '更新时间', // string | boolean
     logo: '/assets/img/logo.jpg',
     nav: navConf,
