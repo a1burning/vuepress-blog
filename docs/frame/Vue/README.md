@@ -14,9 +14,13 @@ sidebarDepth: 5
 - Vue源码 ： [Vue源码](./vue-source-code/01.md)
 
 ## vue生态
+- Vue推荐资源网站 ：[awesome-vue](https://github.com/vuejs/awesome-vue)
 - Vue Router ： [Vue Router](./vue-router/01.md)
 - Vuex ： [Vuex](./vuex/01vuex.md)
 - Vuepress ： [Vuepress](./vuepress/01.md)
+- 国际化 ： [i18n](./i18n/01.md)
+- vue-element-admin ： [vue-element-admin](./vue-element-admin/01.md)
+- Vant ： [Vant文档](./vant/01.md)
 
 ## vue问答
 - [请简述 Vue 首次渲染的过程](./vue-source-code/Q&A.html#三、请简述-vue-首次渲染的过程)
