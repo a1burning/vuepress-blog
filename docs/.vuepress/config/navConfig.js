@@ -67,7 +67,11 @@ module.exports = [
     ]
   },
   {
-    text: 'Tools', link: '/tools/', icon: 'reco-api'
+    text: '算法', link: '/algorithm/', items: [
+      { text: '算法基础', link: '/algorithm/learn/01.md'},
+      { text: 'LeetCode', link: '/algorithm/leetCode/0002.md'},
+      { text: '剑指Offer', link: '/algorithm/codingInterviews/06.md'},
+    ]
   },
   {
     text: '更多', items:
@@ -77,6 +81,8 @@ module.exports = [
       { text: '部署', link: '/more/deployment/'},
       { text: 'Docker', link: '/more/Docker/01.md'},
       { text: '计算机网络', link: '/more/Network/'},
+      { text: '面试题', link: '/more/question/01.md'},
+      { text: 'Tools', link: '/more/tools/'},
     ]
   },
   { text: '标签分类', link: '/tag/', icon: 'reco-category' },
