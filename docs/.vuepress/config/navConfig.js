@@ -81,7 +81,6 @@ module.exports = [
       { text: '部署', link: '/more/deployment/'},
       { text: 'Docker', link: '/more/Docker/01.md'},
       { text: '计算机网络', link: '/more/Network/'},
-      { text: '面试题', link: '/more/question/01.md'},
       { text: 'Tools', link: '/more/tools/'},
     ]
   },
