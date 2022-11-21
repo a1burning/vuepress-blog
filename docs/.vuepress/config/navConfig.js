@@ -67,10 +67,15 @@ module.exports = [
     ]
   },
   {
-    text: '算法', link: '/algorithm/', items: [
-      { text: '算法基础', link: '/algorithm/learn/01.md'},
-      { text: 'LeetCode', link: '/algorithm/leetCode/0002.md'},
-      { text: '剑指Offer', link: '/algorithm/codingInterviews/06.md'},
+    text: '题库', items: [
+      { text: '算法题库', items: [
+        { text: '算法基础', link: '/algorithm/learn/01.md'},
+        { text: 'LeetCode', link: '/algorithm/leetCode/0002.md'},
+        { text: '剑指Offer', link: '/algorithm/codingInterviews/06.md'},
+      ]},
+      { text: '前端题库', items: [
+        {text: 'Bigfrontend', link: '/algorithm/bigfrontend/001.md'},
+      ]},
     ]
   },
   {
