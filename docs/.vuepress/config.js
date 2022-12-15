@@ -18,7 +18,7 @@ module.exports = {
     subSidebar: 'auto',
     noFoundPageByTencent: false,
     // 备案
-    record: '京ICP备2021001777号-1',
+    record: '京ICP备2021001777号',
     recordLink: 'https://beian.miit.gov.cn/',
     // cyberSecurityRecord: '公安部备案文案',
     // cyberSecurityLink: '公安部备案指向链接',
